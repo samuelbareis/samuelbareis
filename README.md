@@ -1,6 +1,6 @@
 ### Olá! 😁 
 
-Me chamo Samuel Reis. Comecei meus estudos em progração em 2020 utilizando a linguagem Python e atualmente estou cursando Analise e Desenvolvimentos de Sistemas (2021-2024) e trabalhando na [Coordenadora de Tecnologia da Informação e Comunicação](https://www.saude.ce.gov.br/download/publicacoes-cotic/), como Engenheiro de Dados Júnior, fazendo o ETL de dados para a plataforma [IntegraSUS](https://integrasus.saude.ce.gov.br/#/home). Meus projetos aqui disponibilizados demonstram de forma ética alguns códigos utilizados no ambiente de trabalho, como também projetos pessoais, de cursos e da faculdade que estão sendo desenvolvidos.
+Me chamo Samuel Reis. Comecei meus estudos em progração em 2020 utilizando a linguagem Python e atualmente estou cursando Analise e Desenvolvimentos de Sistemas (2021-2024) e trabalhando na [Secretaria de Saúde do Ceará](https://www.saude.ce.gov.br), como Engenheiro de Dados Júnior, fazendo o ETL de dados para a plataforma [IntegraSUS](https://integrasus.saude.ce.gov.br/#/home). Meus projetos aqui disponibilizados demonstram de forma ética alguns códigos utilizados no ambiente de trabalho, como também projetos pessoais, de cursos e da faculdade que estão sendo desenvolvidos.
 
 No meu tempo livre gosto de assistir filmes (🎞️) e séries (📺), ler noticias (:newspaper:), cozinhar (👨‍🍳), escutar música (🎵) e viajar (:school_satchel:).
 

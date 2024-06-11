@@ -8,4 +8,4 @@ Você pode me encontrar também, nestas redes (:point_down:)
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-7F0000?style=flat-square&labelColor=7F0000&logo=instagram&logoColor=white&link=https://instagram.com/samuelbareis/)](https://www.instagram.com/samuelbareis/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-FFFFFF?style=flat-square&labelColor=FFFFFF&logo=facebook&logoColor=blue&link=https://facebook.com/samuel.barbosa.90475069/)](https://www.facebook.com/samuel.barbosa.90475069/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-reis-8965ab179)](https://www.linkedin.com/in/samuel-reis-8965ab179)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-barbosa-dos-reis-8965ab179/)](https://www.linkedin.com/in/samuel-barbosa-dos-reis-8965ab179/)
